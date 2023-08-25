@@ -1,0 +1,52 @@
+/* ... Other styles ... */
+
+.button-container1 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Centers items horizontally */
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .Paybutton {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 50%;
+  }
+  .Paybutton:hover{
+    background-color: #6bc08b;
+  }
+  
+  .Download_Receipt {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 50%;
+  }
+  .DownloadReceiptComponent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .PaymentComponent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  /* ... Other styles ... */
+  .Header :hover{
+    background-color: #627d8f;
+  }
+ 
+
+.buttons{
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+}

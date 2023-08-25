@@ -1,0 +1,19 @@
+.header {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header-title {
+    margin: 0;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Add more styles as needed */
+  

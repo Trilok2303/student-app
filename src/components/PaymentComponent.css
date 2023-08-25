@@ -1,0 +1,46 @@
+.payment-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+  }
+  
+  .payment-title {
+    margin-top: 10px;
+  }
+  
+  .input-field1 {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 0px;
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .input-field2 {
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }  
+  .login-button-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .login-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: #2980b9;
+  }
+  
